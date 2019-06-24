@@ -1,0 +1,10 @@
+D:\VS Projects\Chat\Server\bin\Debug\Server.exe.config
+D:\VS Projects\Chat\Server\bin\Debug\Server.exe
+D:\VS Projects\Chat\Server\bin\Debug\Server.pdb
+D:\VS Projects\Chat\Server\obj\Debug\Server.Server.resources
+D:\VS Projects\Chat\Server\obj\Debug\Server.Properties.Resources.resources
+D:\VS Projects\Chat\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\VS Projects\Chat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\VS Projects\Chat\Server\obj\Debug\Server.exe
+D:\VS Projects\Chat\Server\obj\Debug\Server.pdb
+D:\VS Projects\Chat\Server\obj\Debug\Server.csprojAssemblyReference.cache

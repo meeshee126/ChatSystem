@@ -1,0 +1,20 @@
+D:\VS Projects\Chat\Chat\bin\Debug\Chat.exe.config
+D:\VS Projects\Chat\Chat\bin\Debug\Chat.exe
+D:\VS Projects\Chat\Chat\bin\Debug\Chat.pdb
+D:\VS Projects\Chat\Chat\obj\Debug\Client.csprojAssemblyReference.cache
+D:\VS Projects\Chat\Chat\obj\Debug\Chat.Form1.resources
+D:\VS Projects\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+D:\VS Projects\Chat\Chat\obj\Debug\Client.csproj.GenerateResource.cache
+D:\VS Projects\Chat\Chat\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\VS Projects\Chat\Chat\obj\Debug\Chat.exe
+D:\VS Projects\Chat\Chat\obj\Debug\Chat.pdb
+C:\Users\Michi\source\repos\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\Michi\source\repos\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\Michi\source\repos\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\Michi\source\repos\Chat\Chat\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Michi\source\repos\Chat\Chat\obj\Debug\Chat.Form1.resources
+C:\Users\Michi\source\repos\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\Michi\source\repos\Chat\Chat\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Michi\source\repos\Chat\Chat\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Michi\source\repos\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\Michi\source\repos\Chat\Chat\obj\Debug\Chat.pdb
